@@ -1,0 +1,338 @@
+{
+  "id": "54b5455b-2043-491f-b919-8352762810cb",
+  "version": "2.0",
+  "name": "new1",
+  "url": "https://okko.tv",
+  "tests": [{
+    "id": "80bbf797-d6c0-4e8e-94c9-56148f3ce7f9",
+    "name": "test2",
+    "commands": [{
+      "id": "3211f630-f9e2-4e27-bc0c-2a8fae1ed3c3",
+      "comment": "",
+      "command": "open",
+      "target": "/movie/taxi-975070",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "01bf5ff5-285c-4b34-901d-45b227e7e854",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "962x693",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ca52e477-fef8-486b-9b67-e6f128313ffc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.FtMhtc4s .\\_9vY2xAN",
+      "targets": [
+        ["css=.FtMhtc4s .\\_9vY2xAN", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div/div[2]/div/div[5]/div[2]/button/div[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/button/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6967693f-7e40-421d-aaee-8696f87257b4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "78e2d623-b8c5-4115-b32e-122443037078",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.zUEZkIiY",
+      "targets": [
+        ["css=.zUEZkIiY", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c92a7ebc-249d-4f71-b237-c375858bb335",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.zUEZkIiY",
+      "targets": [
+        ["css=.zUEZkIiY", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ae54c65e-5b07-4c0e-8e75-fc63b0e08c06",
+      "comment": "",
+      "command": "click",
+      "target": "css=.zUEZkIiY svg",
+      "targets": [
+        ["css=.zUEZkIiY svg", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "1658fc72-7046-419a-8c4b-ff0b84d192b2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.zUEZkIiY svg",
+      "targets": [
+        ["css=.zUEZkIiY svg", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4eeaa9d-36d9-4997-a481-b2ae4bdeee4f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.h2hfN1w1 > .b_O0enV_",
+      "targets": [
+        ["css=.h2hfN1w1 > .b_O0enV_", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div[2]/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "94c052ed-84e4-4bef-8237-8c96115b0ce3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.h2hfN1w1 > .b_O0enV_",
+      "targets": [
+        ["css=.h2hfN1w1 > .b_O0enV_", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div[2]/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f57bee5-bab2-4d5a-9f1f-abbad964f01d",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.h2hfN1w1 > .b_O0enV_",
+      "targets": [
+        ["css=.h2hfN1w1 > .b_O0enV_", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div[2]/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d57f55f6-2104-4c1c-aeb9-b7c16da180b3",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.h2hfN1w1 > .b_O0enV_",
+      "targets": [
+        ["css=.h2hfN1w1 > .b_O0enV_", "css:finder"],
+        ["xpath=//div[@id='guiContainer']/div/div[2]/div[2]/div[4]/div[3]/div[2]/div/button", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d549c258-9cfa-4cd0-b9e7-c1513ab78e4c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\__8cp28QVr svg",
+      "targets": [
+        ["css=.\\__8cp28QVr svg", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "86ae0ec0-e380-4a2e-82f0-2d4011066b42",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,422.3999938964844)",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "44117041-2c87-4a16-827f-2e7d28df54a4",
+    "name": "test3",
+    "commands": [{
+      "id": "fa69162c-5453-4058-b866-1d6e4164f953",
+      "comment": "",
+      "command": "open",
+      "target": "/serial/chernobyl",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e45cfd0b-eddc-4e2f-9759-65ce581a138e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "969x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "27714c0f-3382-4b39-a74f-46aed88da19c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.pLbFsg0W",
+      "targets": [
+        ["css=.pLbFsg0W", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div", "xpath:idRelative"],
+        ["xpath=//div[2]/div[2]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "33b7c4fc-2024-4659-933b-0507195612ca",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.gmlAgFvx .\\_9vY2xAN",
+      "targets": [
+        ["css=.gmlAgFvx .\\_9vY2xAN", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div/div[2]/div/div[5]/div/div/button/div[2]", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div/button/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "77e968a4-3710-4b83-96bd-4781ff08d102",
+      "comment": "",
+      "command": "click",
+      "target": "css=.gmlAgFvx .\\_9vY2xAN",
+      "targets": [
+        ["css=.gmlAgFvx .\\_9vY2xAN", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div/div[2]/div/div[5]/div/div/button/div[2]", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div/button/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c452555f-5b1f-406a-bae8-1533fd374a14",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "920c5a1c-4e14-4d1f-b0d0-c1a803abeda5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.css-tpp7ox > span",
+      "targets": [
+        ["css=.css-tpp7ox > span", "css:finder"],
+        ["xpath=//div[@id='desktopContainer']/div/div/form/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Продолжить')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2152f447-2968-4ac1-a4c0-2a676bc95918",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.css-tpp7ox > span",
+      "targets": [
+        ["css=.css-tpp7ox > span", "css:finder"],
+        ["xpath=//div[@id='desktopContainer']/div/div/form/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Продолжить')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b9a8bda2-7a30-4d18-8638-b1873478b4ef",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.css-tpp7ox > span",
+      "targets": [
+        ["css=.css-tpp7ox > span", "css:finder"],
+        ["xpath=//div[@id='desktopContainer']/div/div/form/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Продолжить')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "e0b5f754-2c18-4f93-b77b-bc4f174041d1",
+    "name": "test1",
+    "commands": [{
+      "id": "691b1a8f-cb97-4b0e-bd10-2956fe41684b",
+      "comment": "",
+      "command": "open",
+      "target": "/movie/fight-club",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c75054eb-9a5a-4c7b-a59b-653b8fbdaa44",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "683x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f2ec5de9-f72d-47c5-afa1-5c2c86d9bc70",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MbmjcbEA:nth-child(2) .\\_9vY2xAN",
+      "targets": [
+        ["css=.MbmjcbEA:nth-child(2) .\\_9vY2xAN", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div/div[2]/div[2]/div[4]/div[2]/button/div[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/button/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5bc60f93-398b-441a-8973-4b0c39c3c420",
+      "comment": "",
+      "command": "click",
+      "target": "css=.MbmjcbEA:nth-child(2) .\\_9vY2xAN",
+      "targets": [
+        ["css=.MbmjcbEA:nth-child(2) .\\_9vY2xAN", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[2]/div/div[2]/div[2]/div[4]/div[2]/button/div[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/button/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be02014e-ea94-4cab-8845-9f57c4ca4c26",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\__9Iww5cH_ .Vply81jm",
+      "targets": [
+        ["css=.\\__9Iww5cH_ .Vply81jm", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "82249fac-9c22-4acf-97df-b331bee8f86b",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\__9Iww5cH_ .Vply81jm",
+      "targets": [
+        ["css=.\\__9Iww5cH_ .Vply81jm", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "1bfd884f-2cc0-417d-9207-5818aee80dc0",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.\\__9Iww5cH_ .Vply81jm",
+      "targets": [
+        ["css=.\\__9Iww5cH_ .Vply81jm", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "d9d68477-708b-466e-ad4f-0ad94a696255",
+      "comment": "",
+      "command": "click",
+      "target": "css=.eM4Ndc70:nth-child(9) > .cO_8eiNN > span",
+      "targets": [
+        ["css=.eM4Ndc70:nth-child(9) > .cO_8eiNN > span", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div/div/nav/div/ul/li[9]/a/span", "xpath:idRelative"],
+        ["xpath=//li[9]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Моё')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f4ed5d8a-f9d2-4963-97ba-25a4a53c0d32",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fLAz9yTN:nth-child(1) span",
+      "targets": [
+        ["css=.fLAz9yTN:nth-child(1) span", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div/div/nav/div/ul/li[9]/div/ul/li/a/span", "xpath:idRelative"],
+        ["xpath=//li[9]/div/ul/li/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Запомненные')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "397d8e16-86ee-4784-ae5a-e615762e4858",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["80bbf797-d6c0-4e8e-94c9-56148f3ce7f9"]
+  }],
+  "urls": ["https://okko.tv/"],
+  "plugins": []
+}
